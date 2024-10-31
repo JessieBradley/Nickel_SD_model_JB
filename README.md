@@ -13,9 +13,9 @@ This repository contains the data, model and code for the following research:
   
 # Software requirements
 
-- Vensim (version...)
-- Python (version...)
-- EMA workbench (version...)
+- Vensim DSS (version 8.1)
+- Python (version 3.8.3)
+- EMA workbench (version 2.0)
 
 # Usage instructions
 
